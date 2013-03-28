@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_11" class="java.beans.XMLDecoder"> 
+ <object class="colorMap.ColorMapModel"> 
+  <void property="colorNodes"> 
+   <object class="java.util.ArrayList"> 
+    <void method="add"> 
+     <object class="colorMap.ColorNode"> 
+      <void property="color"> 
+       <object class="java.awt.Color"> 
+        <int>0</int> 
+        <int>0</int> 
+        <int>0</int> 
+        <int>255</int> 
+       </object> 
+      </void> 
+     </object> 
+    </void> 
+    <void method="add"> 
+     <object class="colorMap.ColorNode"> 
+      <void property="color"> 
+       <object class="java.awt.Color"> 
+        <int>135</int> 
+        <int>0</int> 
+        <int>0</int> 
+        <int>255</int> 
+       </object> 
+      </void> 
+      <void property="value"> 
+       <double>0.31372549019607843</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void method="add"> 
+     <object class="colorMap.ColorNode"> 
+      <void property="color"> 
+       <object class="java.awt.Color"> 
+        <int>135</int> 
+        <int>254</int> 
+        <int>0</int> 
+        <int>255</int> 
+       </object> 
+      </void> 
+      <void property="value"> 
+       <double>0.725490196078431</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void method="add"> 
+     <object class="colorMap.ColorNode"> 
+      <void property="color"> 
+       <object class="java.awt.Color"> 
+        <int>135</int> 
+        <int>255</int> 
+        <int>255</int> 
+        <int>255</int> 
+       </object> 
+      </void> 
+      <void property="value"> 
+       <double>0.9137254901960784</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void method="add"> 
+     <object class="colorMap.ColorNode"> 
+      <void property="color"> 
+       <object class="java.awt.Color"> 
+        <int>255</int> 
+        <int>255</int> 
+        <int>255</int> 
+        <int>255</int> 
+       </object> 
+      </void> 
+      <void property="value"> 
+       <double>1.0</double> 
+      </void> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 

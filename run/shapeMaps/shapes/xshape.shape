@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_01" class="java.beans.XMLDecoder"> 
+ <object class="shapeMap.Shape"> 
+  <void property="XPoints"> 
+   <array class="float" length="12"> 
+    <void index="0"> 
+     <float>-0.5</float> 
+    </void> 
+    <void index="2"> 
+     <float>0.5</float> 
+    </void> 
+    <void index="3"> 
+     <float>1.0</float> 
+    </void> 
+    <void index="4"> 
+     <float>0.5</float> 
+    </void> 
+    <void index="5"> 
+     <float>1.0</float> 
+    </void> 
+    <void index="6"> 
+     <float>0.5</float> 
+    </void> 
+    <void index="8"> 
+     <float>-0.5</float> 
+    </void> 
+    <void index="9"> 
+     <float>-1.0</float> 
+    </void> 
+    <void index="10"> 
+     <float>-0.5</float> 
+    </void> 
+    <void index="11"> 
+     <float>-1.0</float> 
+    </void> 
+   </array> 
+  </void> 
+  <void property="YPoints"> 
+   <array class="float" length="12"> 
+    <void index="0"> 
+     <float>1.0</float> 
+    </void> 
+    <void index="1"> 
+     <float>0.5</float> 
+    </void> 
+    <void index="2"> 
+     <float>1.0</float> 
+    </void> 
+    <void index="3"> 
+     <float>0.5</float> 
+    </void> 
+    <void index="5"> 
+     <float>-0.5</float> 
+    </void> 
+    <void index="6"> 
+     <float>-1.0</float> 
+    </void> 
+    <void index="7"> 
+     <float>-0.5</float> 
+    </void> 
+    <void index="8"> 
+     <float>-1.0</float> 
+    </void> 
+    <void index="9"> 
+     <float>-0.5</float> 
+    </void> 
+    <void index="11"> 
+     <float>0.5</float> 
+    </void> 
+   </array> 
+  </void> 
+ </object> 
+</java> 

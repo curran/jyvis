@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_01" class="java.beans.XMLDecoder"> 
+ <object class="colorMap.ColorMapModel"> 
+  <void property="colorNodes"> 
+   <object class="java.util.ArrayList"> 
+    <void method="add"> 
+     <object class="colorMap.ColorNode"> 
+      <void property="color"> 
+       <object class="java.awt.Color"> 
+        <int>19</int> 
+        <int>0</int> 
+        <int>0</int> 
+        <int>255</int> 
+       </object> 
+      </void> 
+     </object> 
+    </void> 
+    <void method="add"> 
+     <object class="colorMap.ColorNode"> 
+      <void property="color"> 
+       <object class="java.awt.Color"> 
+        <int>97</int> 
+        <int>21</int> 
+        <int>1</int> 
+        <int>255</int> 
+       </object> 
+      </void> 
+      <void property="value"> 
+       <double>0.058823529411764705</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void method="add"> 
+     <object class="colorMap.ColorNode"> 
+      <void property="color"> 
+       <object class="java.awt.Color"> 
+        <int>178</int> 
+        <int>107</int> 
+        <int>0</int> 
+        <int>255</int> 
+       </object> 
+      </void> 
+      <void property="value"> 
+       <double>0.43891402714932126</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void method="add"> 
+     <object class="colorMap.ColorNode"> 
+      <void property="color"> 
+       <object class="java.awt.Color"> 
+        <int>240</int> 
+        <int>144</int> 
+        <int>46</int> 
+        <int>255</int> 
+       </object> 
+      </void> 
+      <void property="value"> 
+       <double>0.6386554621848739</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void method="add"> 
+     <object class="colorMap.ColorNode"> 
+      <void property="color"> 
+       <object class="java.awt.Color"> 
+        <int>251</int> 
+        <int>188</int> 
+        <int>6</int> 
+        <int>255</int> 
+       </object> 
+      </void> 
+      <void property="value"> 
+       <double>0.8733031674208145</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void method="add"> 
+     <object class="colorMap.ColorNode"> 
+      <void property="color"> 
+       <object class="java.awt.Color"> 
+        <int>254</int> 
+        <int>254</int> 
+        <int>254</int> 
+        <int>255</int> 
+       </object> 
+      </void> 
+      <void property="value"> 
+       <double>0.9457013574660633</double> 
+      </void> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 

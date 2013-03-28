@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_01" class="java.beans.XMLDecoder"> 
+ <object class="colorMap.ColorMapModel"> 
+  <void property="colors"> 
+   <array class="java.awt.Color" length="8"> 
+    <void index="0"> 
+     <object class="java.awt.Color"> 
+      <int>255</int> 
+      <int>255</int> 
+      <int>255</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void index="1"> 
+     <object class="java.awt.Color"> 
+      <int>255</int> 
+      <int>255</int> 
+      <int>0</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void index="2"> 
+     <object class="java.awt.Color"> 
+      <int>0</int> 
+      <int>255</int> 
+      <int>255</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void index="3"> 
+     <object class="java.awt.Color"> 
+      <int>0</int> 
+      <int>255</int> 
+      <int>0</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void index="4"> 
+     <object class="java.awt.Color"> 
+      <int>255</int> 
+      <int>0</int> 
+      <int>255</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void index="5"> 
+     <object class="java.awt.Color"> 
+      <int>255</int> 
+      <int>0</int> 
+      <int>0</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void index="6"> 
+     <object class="java.awt.Color"> 
+      <int>0</int> 
+      <int>0</int> 
+      <int>255</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void index="7"> 
+     <object class="java.awt.Color"> 
+      <int>0</int> 
+      <int>0</int> 
+      <int>0</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+   </array> 
+  </void> 
+  <void property="discrete"> 
+   <boolean>true</boolean> 
+  </void> 
+ </object> 
+</java> 

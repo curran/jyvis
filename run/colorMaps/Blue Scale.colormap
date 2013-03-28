@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_01" class="java.beans.XMLDecoder"> 
+ <object class="colorMap.ColorMapModel"> 
+  <void property="colorNodes"> 
+   <object class="java.util.ArrayList"> 
+    <void method="add"> 
+     <object class="colorMap.ColorNode"> 
+      <void property="color"> 
+       <object class="java.awt.Color"> 
+        <int>204</int> 
+        <int>204</int> 
+        <int>255</int> 
+        <int>255</int> 
+       </object> 
+      </void> 
+     </object> 
+    </void> 
+    <void method="add"> 
+     <object class="colorMap.ColorNode"> 
+      <void property="color"> 
+       <object class="java.awt.Color"> 
+        <int>0</int> 
+        <int>0</int> 
+        <int>255</int> 
+        <int>255</int> 
+       </object> 
+      </void> 
+      <void property="value"> 
+       <double>0.48717948717948717</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void method="add"> 
+     <object class="colorMap.ColorNode"> 
+      <void property="color"> 
+       <object class="java.awt.Color"> 
+        <int>0</int> 
+        <int>0</int> 
+        <int>51</int> 
+        <int>255</int> 
+       </object> 
+      </void> 
+      <void property="value"> 
+       <double>0.9829059829059829</double> 
+      </void> 
+     </object> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 
